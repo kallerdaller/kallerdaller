@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "xyz.kaller.spotifyplaylists",
+    "sha256_cert_fingerprints":
+    ["89:8F:23:FB:2C:43:EC:0A:44:5B:28:B9:B4:0C:AE:88:78:C7:32:E3:4B:6D:F9:42:C5:79:48:2F:35:38:6B:68"]
+  }
+}]
